@@ -18,8 +18,8 @@ jspm_packages
 
 # Folders
 _obj
-_test
-
+_testssss
+sss
 # Architecture specific extensions/prefixes
 *.[568vq]
 [568vq].out
@@ -29,7 +29,9 @@ _test
 _cgo_defun.c
 _cgo_gotypes.go
 _cgo_export.*
-
+=======
+ss
+>>>>>>> b61f466 (hihi)
 _testmain.go
 
 *.exe
